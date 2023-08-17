@@ -1,6 +1,6 @@
 # Welcome to LLM2DAW by myuzeo labs
 
-LLM2DAW, crafted by myuzeo labs, is a groundbreaking Ableton plugin that integrates state-of-the-art Hugging Face's pre-trained language models, Flask API, and Max for Live. This user-friendly tool invites musicians, producers, and developers to embark on a creative journey, enabling new avenues of exploration in music technology.
+LLM2DAW, crafted by myuzeo labs, is a groundbreaking Ableton plugin that integrates state-of-the-art Replicate/Hugging Face's pre-trained language models, Flask API, and Max for Live. This user-friendly tool invites musicians, producers, and developers to embark on a creative journey, enabling new avenues of exploration in music technology.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ LLM2DAW, crafted by myuzeo labs, is a groundbreaking Ableton plugin that integra
 
 ## About the Project
 
-LLM2DAW brings natural language processing and music production together, enhancing the capabilities of Ableton Live. Whether you're looking to innovate your sound design or seeking a fresh approach to musical composition, this plugin offers a plethora of opportunities.
+LLM2DAW brings audio/natural language processing and music production together, enhancing the capabilities of Ableton Live. Whether you're looking to innovate your sound design or seeking a fresh approach to musical composition, this plugin offers a plethora of opportunities.
 
 ## Features
 
